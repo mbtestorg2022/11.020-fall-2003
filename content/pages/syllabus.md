@@ -31,13 +31,66 @@ Requirements
 
 The assignments are due on the following dates:
 
-| ASSIGNMENTS | DUE DATES |
-| --- | --- |
-| Analytical Exercise | Lec #1 |
-| First Assignment | Lec #7 |
-| Second Assignment | Lec #15 |
-| Required Rewriting Assignment | Lec #18 |
-| Third Assignment | Lec #22 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Analytical Exercise
+{{< tdclose >}}
+{{< tdopen >}}
+Lec #1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+First Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+Lec #7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Second Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+Lec #15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Required Rewriting Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+Lec #18
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Third Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+Lec #22
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  

@@ -4,30 +4,323 @@ title: Calendar
 uid: 67be9944-4dfe-1cdc-397e-c98156f59928
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Orientation Session; Syllabus, and Summary Sheet | Analytical Exercise (On Ellwood Reading) |
-| 2 | Policy Controversy and the Role of Values in Problem Definition | &nbsp; |
-| 3 | The Concept and Measurement of Poverty in the United States | &nbsp; |
-| 4 | Other Approaches to Conceptualizing and Measuring Poverty | &nbsp; |
-| 5 | Roundtable Discussion on the Concept and Measurement of Poverty (student led) | &nbsp; |
-| 6 | Institutional Design of Poverty Programs: Controversy over Responsibility, the Public-Private Mix Continued | &nbsp; |
-| 7 | The Public Private Mix Controversy in Pension Policy | Assignment #1 Due |
-| 8 | The Public Private Mix Controversy in Social Service Policy: Profit and Non Profit (Non-Sectarian and Faith-Based) | &nbsp; |
-| 9 | Roundtable Discussion on the Public-Private Mix | &nbsp; |
-| &nbsp; | Mid Term Exam (One week after Lecture 9) |
-| 10 | The Underclass Controversy | &nbsp; |
-| 11 | Taking Stock and Starting Discussion of the Underclass Debate | &nbsp; |
-| 12 | Analyzing and Writing Reading Arguments | &nbsp; |
-| 13 | Moving to Opportunity | &nbsp; |
-| 14 | The Controversy over Welfare Reform | &nbsp; |
-| 15 | Dependency in a Comparative Perspective | Assignment #2 Due |
-| 16 | The American Reform of its Welfare System | &nbsp; |
-| 17 | Roundtable Discussion of Welfare Reform | &nbsp; |
-| 18 | Political Disenfranchisement | Writing Rewrite Assignment Due |
-| 19 | Economic Growth: Poverty and the I.Q. Controversy | &nbsp; |
-| 20 | The Controversy of Political Disenfranchisement: Poverty as a Lack of Power  {{< br >}}  {{< br >}}Crime Deviance and Poverty Roundtable Discussion on the Underclass Debate | &nbsp; |
-| 21 | Economic Power | &nbsp; |
-| 22 | Roundtable Discussion on Disenfranchisement | Assignment #3 Due |
-| 23 | Social Science Contribution to Controversy | &nbsp; |
-| &nbsp; | End Term Exam (Optional but Strongly Recommended - 2 days after the last Lecture)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Orientation Session; Syllabus, and Summary Sheet
+{{< tdclose >}}
+{{< tdopen >}}
+Analytical Exercise (On Ellwood Reading)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Policy Controversy and the Role of Values in Problem Definition
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Concept and Measurement of Poverty in the United States
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Other Approaches to Conceptualizing and Measuring Poverty
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Roundtable Discussion on the Concept and Measurement of Poverty (student led)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Institutional Design of Poverty Programs: Controversy over Responsibility, the Public-Private Mix Continued
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+The Public Private Mix Controversy in Pension Policy
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #1 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The Public Private Mix Controversy in Social Service Policy: Profit and Non Profit (Non-Sectarian and Faith-Based)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Roundtable Discussion on the Public-Private Mix
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Mid Term Exam (One week after Lecture 9)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The Underclass Controversy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Taking Stock and Starting Discussion of the Underclass Debate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Analyzing and Writing Reading Arguments
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Moving to Opportunity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+The Controversy over Welfare Reform
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Dependency in a Comparative Perspective
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #2 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+The American Reform of its Welfare System
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Roundtable Discussion of Welfare Reform
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Political Disenfranchisement
+{{< tdclose >}}
+{{< tdopen >}}
+Writing Rewrite Assignment Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Economic Growth: Poverty and the I.Q. Controversy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+The Controversy of Political Disenfranchisement: Poverty as a Lack of Power  
+  
+Crime Deviance and Poverty Roundtable Discussion on the Underclass Debate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Economic Power
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Roundtable Discussion on Disenfranchisement
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #3 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Social Science Contribution to Controversy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+End Term Exam (Optional but Strongly Recommended - 2 days after the last Lecture)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
